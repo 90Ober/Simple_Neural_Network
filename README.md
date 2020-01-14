@@ -1,2 +1,2 @@
-# Simple_Neural_Network
+Simple Neural Network
 How to create a simple Neural Network.
